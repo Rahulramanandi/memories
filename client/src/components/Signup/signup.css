@@ -1,0 +1,13 @@
+.signup-wrapper {
+  background-color: #0d6efd;
+  min-height: 100vh;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFUoOzaBd_QpPk6HpTIOZZYXdqVUQJur72g&usqp=CAU");
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover; 
+}
+
+.extra{
+  border-radius: 10px;
+}
+
